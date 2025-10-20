@@ -1,4 +1,5 @@
 # Directory Structure
+```raw
 📂 Retail_Demand_Forecast/
 ├── 📄 .gitignore
 ├── 📄 README.md
@@ -47,3 +48,5 @@
     └── 📂 utils
         ├── 📄 log_utils.py
         └── 📄 project_utils.py
+```
+
