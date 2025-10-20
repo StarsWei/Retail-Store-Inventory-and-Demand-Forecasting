@@ -1,3 +1,6 @@
+# File Structure Index
+
+```text
 📂 Retail_Demand_Forecast/
 ├── 📄 .gitignore
 ├── 📄 FILE_INDEX.md
@@ -47,3 +50,4 @@
     └── 📂 utils
         ├── 📄 log_utils.py
         └── 📄 project_utils.py
+```
