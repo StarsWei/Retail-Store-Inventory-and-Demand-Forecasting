@@ -1,7 +1,6 @@
-# Directory Structure
-```raw
 📂 Retail_Demand_Forecast/
 ├── 📄 .gitignore
+├── 📄 FILE_INDEX.md
 ├── 📄 README.md
 ├── 📂 data
 │   ├── 📂 processed
@@ -27,11 +26,11 @@
 │   ├── 📄 SMA.ipynb
 │   ├── 📄 STL.ipynb
 │   ├── 📄 Untitled.ipynb
-│   ├── 📄 Untitled1.ipynb
 │   ├── 📄 category_stats.ipynb
 │   ├── 📄 outlier_analysis.ipynb
 │   ├── 📄 outlier_detection.ipynb
 │   ├── 📄 pie_chart.ipynb
+│   ├── 📄 project_tree_viewer.ipynb
 │   ├── 📄 promo_ratio_plot.ipynb
 │   ├── 📄 promo_stats.ipynb
 │   ├── 📄 promo_stats_describe.ipynb
@@ -48,5 +47,3 @@
     └── 📂 utils
         ├── 📄 log_utils.py
         └── 📄 project_utils.py
-```
-
